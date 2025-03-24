@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @bkmidkiff
+- Hi, I’m @bkmidkiff
 - Univ. of Alabama
 - B.S. in Aerospace Engineering - Spring 2024
-- M.S. in Aerospace Engineering & Mechanics - Spring 2025
+- M.S. in Aerospace Engineering & Mechanics - Fall 2025
 - Minor in Computer Science
-- I’m interested in engineering and software.
-- I’m currently learning C++, Python, and Java.
-- I’m looking to collaborate on anything.
+- I’m interested in engineering software and game development.
 - How to reach me:
 - Email: bmidkidoublef@gmail.com
 
