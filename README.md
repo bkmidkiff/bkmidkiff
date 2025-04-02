@@ -4,8 +4,6 @@
 - M.S. in Aerospace Engineering & Mechanics - Fall 2025
 - Minor in Computer Science
 - I’m interested in engineering software and game development.
-- How to reach me:
-- Email: bmidkidoublef@gmail.com
 
 <!---
 bkmidkiff/bkmidkiff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
